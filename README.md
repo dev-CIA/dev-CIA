@@ -1,6 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=23&duration=3000&pause=1000&color=828BF7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Inae)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=23&duration=3000&pause=1000&color=828BF7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Inae)](https://git.io/typing-svg)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-CIA&count_bg=%23E6D2FD&title_bg=%237E7E7E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 **dev-CIA/dev-CIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
